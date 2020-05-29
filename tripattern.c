@@ -293,5 +293,4 @@ int main()
   }
 }
 
-       else
-         printf("  ");
+     
